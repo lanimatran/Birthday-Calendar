@@ -5,9 +5,13 @@ birthday , you will get an email and/or SMS
 
 ## Versioning
 Node v16.14.2
+
 npm 8.9.0
+
 Java 20
+
 Apache Maven 3.9.2
+
 MySQL Community Server 8.0.33
 
 ## Usage
@@ -23,5 +27,8 @@ The details of these configurations can be changed at src\main\resources\applica
 
 Run "BirthdayCalendarApplication.java" in src\main\java\com\lanimatran\birthdaycalendar as "Java Application" using Eclipse 2023-03
 
+## Sources
 
- 
+A similar app was covered as part of the course I took at: https://www.udemy.com/course/full-stack-application-development-with-spring-boot-and-angular/
+The github repo for the course is: https://github.com/in28minutes/master-spring-and-spring-boot
+A small portion of the code was taken from there. However, most are outdated and needed some significant changes. I also made significant changes to tweak it suitable for my project.
