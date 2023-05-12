@@ -30,5 +30,7 @@ Run "BirthdayCalendarApplication.java" in src\main\java\com\lanimatran\birthdayc
 ## Sources
 
 A similar app was covered as part of the course I took at: https://www.udemy.com/course/full-stack-application-development-with-spring-boot-and-angular/
+
 The github repo for the course is: https://github.com/in28minutes/master-spring-and-spring-boot
+
 A small portion of the code was taken from there. However, most are outdated and needed some significant changes. I also made significant changes to tweak it suitable for my project.
